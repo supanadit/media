@@ -16,13 +16,14 @@ import (
 )
 
 func main() {
-    // Create instance of Gin Engine
+	// Create instance of Gin Engine
 	g := gin.Default()
-    // Serve and create shared directory
+	// Serve and create shared directory
 	_ = media.Gin(g).SetDestination("./upload").Create()
-    // Serve gin at port :8080
+	// Serve gin at port :8080
 	_ = g.Run(":8080")
 }
+
 ```
 
 ## Note
