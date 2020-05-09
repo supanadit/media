@@ -1,6 +1,6 @@
 # Media
 
-Serve your shareable public directory easily
+Easily serve your shareable public directory
 
 ## Installation
 `go get github.com/supanadit/media`
