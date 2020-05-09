@@ -26,4 +26,4 @@ func main() {
 ```
 
 ## Note
-Sorry, currently its only support [**Gin**](https://github.com/gin-gonic/gin) web framework, soon it will support [**Echo**](https://github.com/labstack/echo) as well
+Sorry, currently its only support [**Gin**](https://github.com/gin-gonic/gin) web framework, but soon it will support [**Echo**](https://github.com/labstack/echo) as well
